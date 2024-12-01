@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/user-attachments/assets/b8ddb27e-25b6-4d67-ba78-4bf42c88bb7b)
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadsunny0&label=Profile%20views&color=0e75b6&style=flat" alt="asadsunny0" /> </p>
 
