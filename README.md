@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadsunny0&label=Profile%20views&color=0e75b6&style=flat" alt="asadsunny0" /> </p>
 
-<img src="https://gif-database.tumblr.com/post/23670951475" alt="side Image" align="right" width="300" height="auto" />
-
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="330" height="auto"/>
 
 - 🔭 I’m currently working on **Machine Learning**
 
@@ -29,6 +28,6 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=asadsunny0&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=asadsunny0&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=asadsunny0&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=black)](https://github-profile-trophy.vercel.app/?username=asadsunny0&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=red)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asadsunny0&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=black)](https://github-profile-trophy.vercel.app/?username=asadsunny0&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=red)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadsunny0&" alt="asadsunny0" /></p>
