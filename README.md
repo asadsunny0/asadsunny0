@@ -1,7 +1,8 @@
 ![github-header-image](https://github.com/user-attachments/assets/b8ddb27e-25b6-4d67-ba78-4bf42c88bb7b)
 
+ ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  ![](https://komarev.com/ghpvc/?username=asadsunny0&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadsunny0&label=Profile%20views&color=0e75b6&style=flat" alt="asadsunny0" /> </p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="330" height="auto"/>
 
