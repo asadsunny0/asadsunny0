@@ -28,6 +28,4 @@
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=asadsunny0&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=asadsunny0&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asadsunny0&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=black)](https://github-profile-trophy.vercel.app/?username=asadsunny0&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=red)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadsunny0&" alt="asadsunny0" /></p>
